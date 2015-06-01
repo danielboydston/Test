@@ -7,4 +7,6 @@ This edit was edited directly from windows explorer.
 
 DB 2015-06-01
 
+Here is a change that I made during the merge process.
+
 Test
